@@ -1,4 +1,2 @@
-# Physics
-Physics based programs built in Python.
-
-Currently have nuclear physics type problems.
+# Python Projects
+Currently showing physics based programs built in Python.
