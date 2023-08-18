@@ -9,10 +9,9 @@ from xgboost import XGBRegressor
 from xgboost import XGBRFRegressor
 from sklearn.ensemble import RandomForestRegressor
 
-m = Mpr("YUfojHpbkcf8fnOZyjGJtAxCDYZihSvw")  # Include your own Materials Project API Key here
-# ************************
-# Can search up anonymous materials, as an example, of the form 'ABC03'
+m = Mpr("************************")  # Include your own Materials Project API Key here
 
+# Can search up anonymous materials, as an example, of the form 'ABC03'
 # We want information regarding band_gap, formula name, and structure (a.k.a CIF file)
 results = m.summary.search(formula=['ABC03'], fields=["band_gap", "formula_pretty", "structure"])
 
