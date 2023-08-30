@@ -1,2 +1,4 @@
 # Python Projects
-Currently showing physics based programs built in Python.
+Physics based programs and side projects built in Python. 
+
+Showcasing GUI's, Machine Learning, and nuclear physics programs.
