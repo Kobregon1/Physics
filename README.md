@@ -1,7 +1,7 @@
 # Python Projects
 Physics based programs and side projects built in Python. 
 # Table of Contents
-1. [Band_Gap_ML.py](https://github.com/Kobregon1/Python_projects/blob/main/Band_Gap_ML.py) - Supervised Machine Learning project that grabs 2D and 3D materials information via CIF (Crystallographic Information File) from the Materials Project database. With this information I extract key features and Band Gap target values in order to perform predictions. Compares against 3 different ML algorithms: Random Forest Regressor, XGBoost, and XGBoost Regressor.
+1. [Band_Gap_ML.py](https://github.com/Kobregon1/Python_projects/blob/main/Band_Gap_ML.py) - Supervised Machine Learning project that grabs 2D and 3D materials information via CIF (Crystallographic Information File) from the Materials Project database. With this information I extract key features and Band Gap target values in order to perform predictions. Compares against 3 different ML algorithms: Random Forest Regressor, XGBoost, and XGBoost Regressor.\n
 
  Band Gap tells us whether some material is conductive, the main goal of this project that I worked on was to advance to predicting new 2D and 3D material 
  combinations that may be conductive. 
