@@ -17,11 +17,6 @@ else:
     print("ERROR: Z must be greater than 0")
 print()
 
-'''
--Create a dictionary for l value A.K.A a dictionary data structure
--Analogy: l is a 'door' and it contains 'keys' & each 'key' has a 'value' or 'name' (A.K.A string)
--Helpful for when determining parity
-'''
 l = {'s': 0,
      'p': 1,
      'd': 2,
@@ -29,7 +24,6 @@ l = {'s': 0,
      'g': 4}
 
 # Create dictionary for orbitals values
-# Helpful when determining ground state
 orbital = {'s1/2': '1/2',
            'p3/2': '3/2',
            'p1/2': '1/2',
